@@ -1,0 +1,11 @@
+{
+  "server": true,
+  "bind_addr": "172.25.0.2",
+  "bootstrap_expect": 3,
+  "data_dir": "/tmp",
+  "encrypt": "dyRUsdkWoS5scK2MStthqqhAtqp5gi0wj9MjbWkWotY=",
+  "client_addr": "0.0.0.0",
+  "ui_config": {
+    "enabled": true
+  }
+}
